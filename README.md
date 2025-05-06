@@ -5,8 +5,8 @@ Because the terminal has a limit of 1024 characters, input is pasted into the te
   
 To use the program, follow the instructions below
 
-1. Copy the links from the spreadsheet  
-2. Paste the links into the "scripts/input.txt" file  
-3. In "scripts/input.txt", use "CTRL" + "S" to save the changes  
-4. Navigate to the "scripts/script.py" file  
-5. To run the script file, either type "python scripts/script.py" in the terminal, or navigate to the top right corner and click the play button
+1. Copy the links you'd like to evaluate
+2. Paste the links into the "input.txt" file  
+3. In "input.txt", use "CTRL" + "S" to save the changes  
+4. Navigate to the "script.py" file  
+5. To run the script file, either type "python script.py" in the terminal, or navigate to the top right corner and click the play button
